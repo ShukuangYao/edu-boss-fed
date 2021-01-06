@@ -1,0 +1,4 @@
+diff a/src/shims-tsx.d.ts b/src/shims-tsx.d.ts	(rejected hunks)
+@@ -1 +1 @@
+-import Vue, { VNode } from 'vue'
++import Vue, { VNode } from 'vue';
