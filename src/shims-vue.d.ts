@@ -3,3 +3,7 @@ declare module '*.vue' {
 
   export default Vue;
 }
+
+interface Window {
+  AliyunUpload: any;
+}
